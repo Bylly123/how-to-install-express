@@ -1,4 +1,4 @@
-# how-to-install-express
+# How to install express
 
 *follow this commands:*
 
